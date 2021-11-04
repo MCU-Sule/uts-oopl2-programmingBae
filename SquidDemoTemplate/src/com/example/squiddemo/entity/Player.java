@@ -1,5 +1,7 @@
 package com.example.squiddemo.entity;
-
+/**
+ * Abednego Steven 1972009
+ */
 public class Player {
     private int id;
     private String nama;

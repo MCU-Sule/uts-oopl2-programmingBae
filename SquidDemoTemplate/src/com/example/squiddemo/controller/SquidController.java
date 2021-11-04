@@ -1,4 +1,7 @@
 package com.example.squiddemo.controller;
+/**
+ * Abednego Steven 1972009
+ */
 
 import com.example.squiddemo.dao.HutangDao;
 import com.example.squiddemo.dao.PlayerDao;
